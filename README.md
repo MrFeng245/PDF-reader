@@ -41,6 +41,8 @@
 
 >   可双指 || 鼠标滚轮 || 快捷键
 
+## <font color='orange'>保存</font>
+
 # <font color='cornflowerblue'>布局</font>
 
 ## <font color='orange'>要求</font>
