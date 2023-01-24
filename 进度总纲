@@ -1,0 +1,86 @@
+# <font color='cornflowerblue'>说明</font>
+
+---
+
+-   本项目共五个阶段
+-   阶段之间是线性关系，即一个阶段结束后才能开启下个阶段（尽量不要跳阶段）
+-   如有漏洞，提！
+
+# <font color='cornflowerblue'>第O阶段</font>
+
+---
+
+## <font color='orange'>任务</font>
+
+### <font color='BurlyWood'>了解工作环境</font>
+
+-   [ ] 需要哪些软件
+-   [ ] 需要什么语言
+-   [ ] 熟悉开发流程
+
+### <font color='BurlyWood'>确定需求</font>
+
+-   [ ] 提出需求
+-   [ ] 讨论可行性
+
+## <font color='orange'>分工</font>
+
+>   按每个阶段分配
+
+在确定任务之后开始工作量的考量与分配（通常在第I阶段进行）
+
+# <font color='cornflowerblue'>第I阶段</font>
+
+---
+
+## <font color='orange'>任务</font>
+
+做一款能打开和关闭PDF的pc端软件，<font color='red'>PDFreader-v1.0</font>
+
+# <font color='cornflowerblue'>第II阶段</font>
+
+---
+
+## <font color='orange'>任务</font>
+
+做一款能编辑PDF，自定义快捷键的PDF阅读器
+
+## <font color='orange'>内容</font>
+
+### <font color='BurlyWood'>编辑</font>
+
+-   钢笔
+-   银光笔
+-   荧光框
+-   橡皮（删除触碰到的线条）
+-   板擦（区域擦除）
+
+### <font color='BurlyWood'>界面</font>
+
+此时的重点是功能，因此界面能看就行
+
+# <font color='cornflowerblue'>第III阶段</font>
+
+---
+
+## <font color='orange'>任务</font>
+
+使一款PDF编辑器界面美观，操作人性化
+
+## <font color='orange'>内容</font>
+
+### <font color='BurlyWood'>布局</font>
+
+待定
+
+<font color='BurlyWood'>界面</font>
+
+待定 
+
+# <font color='cornflowerblue'>第四阶段</font>
+
+---
+
+## <font color='orange'>任务</font>
+
+挑战<font color='red'>`需求文档`</font>中的困难需求
